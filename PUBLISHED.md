@@ -2,6 +2,7 @@
 
 | Date | Content version | Source commit (sheldon37/Chip-Arena) | Notes |
 | --- | --- | --- | --- |
+| 2026-10-02 | 0.2.1aeb4fad8c90 | 7d31530cbe996dd45744e45da2442ace9eefecdb (claude/visual-revision, PR #16) | Kill-cam death replay with Claude UI, transitions and shoulder camera; Siren numbered-ability super armor. Owner-requested test publication with documented baseline failures and unreviewed native visuals/audio. |
 | 2026-10-01 | 0.2.c99e20077a04 | 25599c4052af5f3f50457ea7491dcb01b6216076 (claude/visual-revision, PR #14) | Impact body wounds, sever/crush and kneel/fall visuals; real-Rapier spin/handoff fixes. Owner authorized diagnostic test publication with documented baseline failures and unreviewed native visuals. |
 | 2026-10-01 | 0.2.2fb402472edb | a2480ba6985bb8a60efc10f79839eeb7d3dc9a27 (claude/visual-revision, PR #13) | Chip card redesign, three Siren-only Chips, Siren team preservation and optional instant bot Chip choices; owner-requested test update |
 | 2026-10-01 | 0.2.c452eefcbbac | fd673130a56dac89db1df90133fda10ea0afc728 (claude/visual-revision, PR #11) | Siren silent smile/Last Laugh cutscene, removed voice hooks, 15,000 base HP, verified-DEV bot loadouts and bot weapon abilities; owner-requested test update |
