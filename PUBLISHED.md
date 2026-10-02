@@ -2,6 +2,7 @@
 
 | Date | Content version | Source commit (sheldon37/Chip-Arena) | Notes |
 | --- | --- | --- | --- |
+| 2026-10-02 | 0.2.95b7f0a5f044 | cc8eb637083d881a96f53699d67452d4b602e0b5 (claude/visual-revision, PR #19) | Ordinary bot intros and their wait time skipped; human and Siren boss entrances retained. Includes previous kill-cam UI and Siren super armor. Deterministic build, payload and updater checks passed; documented baseline failures and native Windows acceptance remain. |
 | 2026-10-02 | 0.2.1aeb4fad8c90 | 7d31530cbe996dd45744e45da2442ace9eefecdb (claude/visual-revision, PR #16) | Kill-cam death replay with Claude UI, transitions and shoulder camera; Siren numbered-ability super armor. Owner-requested test publication with documented baseline failures and unreviewed native visuals/audio. |
 | 2026-10-01 | 0.2.c99e20077a04 | 25599c4052af5f3f50457ea7491dcb01b6216076 (claude/visual-revision, PR #14) | Impact body wounds, sever/crush and kneel/fall visuals; real-Rapier spin/handoff fixes. Owner authorized diagnostic test publication with documented baseline failures and unreviewed native visuals. |
 | 2026-10-01 | 0.2.2fb402472edb | a2480ba6985bb8a60efc10f79839eeb7d3dc9a27 (claude/visual-revision, PR #13) | Chip card redesign, three Siren-only Chips, Siren team preservation and optional instant bot Chip choices; owner-requested test update |
