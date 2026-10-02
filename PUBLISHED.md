@@ -2,6 +2,7 @@
 
 | Date | Content version | Source commit (sheldon37/Chip-Arena) | Notes |
 | --- | --- | --- | --- |
+| 2026-10-02 | 0.2.0a02ae6804bc | a9269ff44e0a14fd245d7e6de9a1da8ffc75883b (claude/visual-revision, PR #22) | Full-screen 3D chip draft: the pilot looks at the hovered chip, grabs the pick and the details spotlight follows; kill-cam footage starts after a short live hold. Deterministic build, payload and updater checks passed; documented baseline failures and native Windows review remain. |
 | 2026-10-02 | 0.2.c9064e15755f | 2b436fe7c73f832aeba49679583a59fbcddc4c77 (claude/visual-revision, PR #21) | Preserve Impact ragdoll selection when legacy account sync returns Voxel breakup; account-scoped local protection and accurate save notices. Deterministic builds and updater checks passed; documented baseline failures/native review remain. |
 | 2026-10-02 | 0.2.95b7f0a5f044 | cc8eb637083d881a96f53699d67452d4b602e0b5 (claude/visual-revision, PR #19) | Ordinary bot intros and their wait time skipped; human and Siren boss entrances retained. Includes previous kill-cam UI and Siren super armor. Deterministic build, payload and updater checks passed; documented baseline failures and native Windows acceptance remain. |
 | 2026-10-02 | 0.2.1aeb4fad8c90 | 7d31530cbe996dd45744e45da2442ace9eefecdb (claude/visual-revision, PR #16) | Kill-cam death replay with Claude UI, transitions and shoulder camera; Siren numbered-ability super armor. Owner-requested test publication with documented baseline failures and unreviewed native visuals/audio. |
