@@ -5,29 +5,29 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "3686f40e5a1c7600d8abcb6e050701af7719aaedd976936efd003e33b9953a55",
-        "revision": 639271614362672189,
+        "version": "80b8edb903c75a79175839ef4a26090526c794d03f1cc1b4a1a1b092bba130a8",
+        "revision": 639271684416413583,
         "bootstrap": 1
     },
-    "sha256": "a9bd4f1f729ff7a6aa4d56b7413b89b1028a21a7e39e127829be35836df4ba2e",
-    "bytes": 94229097,
-    "unpackedBytes": 192014861,
+    "sha256": "0226ccd91ad9eb3120607d18bb294646c440d58b55c1982a0fbfeb87f71cdb15",
+    "bytes": 94229278,
+    "unpackedBytes": 192015481,
     "files": 229,
     "parts": [
         {
-            "name": "a9bd4f1f729ff7a6aa4d56b7413b89b1028a21a7e39e127829be35836df4ba2e-0000.part",
-            "sha256": "d0b29c7352bde9f0e986f65b16a2c40e7bb612097a75d29fb4f7562b8be3bbe7",
+            "name": "0226ccd91ad9eb3120607d18bb294646c440d58b55c1982a0fbfeb87f71cdb15-0000.part",
+            "sha256": "afffb9432aecd3eaa7bb04f95463f57af50eba45f21910c398473530cf0d2742",
             "bytes": 33554432
         },
         {
-            "name": "a9bd4f1f729ff7a6aa4d56b7413b89b1028a21a7e39e127829be35836df4ba2e-0001.part",
-            "sha256": "837dd0ac72a04c8ebb090f9a7d795bc91f22900148882563b7a84e5676be7401",
+            "name": "0226ccd91ad9eb3120607d18bb294646c440d58b55c1982a0fbfeb87f71cdb15-0001.part",
+            "sha256": "781f6fa4430fa0b0da66a462b590a3c34b030e956c456696bdfea66b1bbd478d",
             "bytes": 33554432
         },
         {
-            "name": "a9bd4f1f729ff7a6aa4d56b7413b89b1028a21a7e39e127829be35836df4ba2e-0002.part",
-            "sha256": "8a2e53476daff7b719c33134545f633fadfcaf40236f84fd8a8911eb0f8126cb",
-            "bytes": 27120233
+            "name": "0226ccd91ad9eb3120607d18bb294646c440d58b55c1982a0fbfeb87f71cdb15-0002.part",
+            "sha256": "7900594bb44f0ea33212af9ff18922c174bb77c1d2e7f74b7a35a931f8e42cd5",
+            "bytes": 27120414
         }
     ]
 }
