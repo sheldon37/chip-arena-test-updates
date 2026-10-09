@@ -5,29 +5,29 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "80b8edb903c75a79175839ef4a26090526c794d03f1cc1b4a1a1b092bba130a8",
-        "revision": 639271684416413583,
+        "version": "d7df747e8028310481e7d555f840abe94f947e521180fa1766a96d551ab96f86",
+        "revision": 639271720697989655,
         "bootstrap": 1
     },
-    "sha256": "0226ccd91ad9eb3120607d18bb294646c440d58b55c1982a0fbfeb87f71cdb15",
-    "bytes": 94229278,
-    "unpackedBytes": 192015481,
+    "sha256": "753ccc79a09b560095e8a928d125a37b150d3a0bd17edee6a14009aaa56dcb39",
+    "bytes": 94304461,
+    "unpackedBytes": 192188165,
     "files": 229,
     "parts": [
         {
-            "name": "0226ccd91ad9eb3120607d18bb294646c440d58b55c1982a0fbfeb87f71cdb15-0000.part",
-            "sha256": "afffb9432aecd3eaa7bb04f95463f57af50eba45f21910c398473530cf0d2742",
+            "name": "753ccc79a09b560095e8a928d125a37b150d3a0bd17edee6a14009aaa56dcb39-0000.part",
+            "sha256": "414949d8b742d652d3068ea949f6c6db53df4db2a7262d6548677cae85c65863",
             "bytes": 33554432
         },
         {
-            "name": "0226ccd91ad9eb3120607d18bb294646c440d58b55c1982a0fbfeb87f71cdb15-0001.part",
-            "sha256": "781f6fa4430fa0b0da66a462b590a3c34b030e956c456696bdfea66b1bbd478d",
+            "name": "753ccc79a09b560095e8a928d125a37b150d3a0bd17edee6a14009aaa56dcb39-0001.part",
+            "sha256": "da8932200939a52a26573941f15dde96d03912a0b161b101ba21d334283a46d2",
             "bytes": 33554432
         },
         {
-            "name": "0226ccd91ad9eb3120607d18bb294646c440d58b55c1982a0fbfeb87f71cdb15-0002.part",
-            "sha256": "7900594bb44f0ea33212af9ff18922c174bb77c1d2e7f74b7a35a931f8e42cd5",
-            "bytes": 27120414
+            "name": "753ccc79a09b560095e8a928d125a37b150d3a0bd17edee6a14009aaa56dcb39-0002.part",
+            "sha256": "4ad1abf284f5874ba8c22e728b92768b82836c363256b4b453d10e84c65c0ea6",
+            "bytes": 27195597
         }
     ]
 }
