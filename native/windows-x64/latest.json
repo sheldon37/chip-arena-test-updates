@@ -5,29 +5,29 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "d7df747e8028310481e7d555f840abe94f947e521180fa1766a96d551ab96f86",
-        "revision": 639271720697989655,
+        "version": "f436434520d50112a81c96ad251be07a69cd5d249b0f174341257228470672f8",
+        "revision": 639271791768735930,
         "bootstrap": 1
     },
-    "sha256": "753ccc79a09b560095e8a928d125a37b150d3a0bd17edee6a14009aaa56dcb39",
-    "bytes": 94304461,
-    "unpackedBytes": 192188165,
+    "sha256": "26a751c0a3b69b1f425675883b9cbf599da4fc2cb7b320042dbaa611b03ca3ec",
+    "bytes": 94323610,
+    "unpackedBytes": 192237779,
     "files": 229,
     "parts": [
         {
-            "name": "753ccc79a09b560095e8a928d125a37b150d3a0bd17edee6a14009aaa56dcb39-0000.part",
-            "sha256": "414949d8b742d652d3068ea949f6c6db53df4db2a7262d6548677cae85c65863",
+            "name": "26a751c0a3b69b1f425675883b9cbf599da4fc2cb7b320042dbaa611b03ca3ec-0000.part",
+            "sha256": "51db3775aca35edadc0fd616e973c31ddfa21fbde66256eff14bd2d44b5c0656",
             "bytes": 33554432
         },
         {
-            "name": "753ccc79a09b560095e8a928d125a37b150d3a0bd17edee6a14009aaa56dcb39-0001.part",
-            "sha256": "da8932200939a52a26573941f15dde96d03912a0b161b101ba21d334283a46d2",
+            "name": "26a751c0a3b69b1f425675883b9cbf599da4fc2cb7b320042dbaa611b03ca3ec-0001.part",
+            "sha256": "6ab7151d8d6bde0506196c7063ed611992808ece5c8c0e0de5dfdf7af5207b42",
             "bytes": 33554432
         },
         {
-            "name": "753ccc79a09b560095e8a928d125a37b150d3a0bd17edee6a14009aaa56dcb39-0002.part",
-            "sha256": "4ad1abf284f5874ba8c22e728b92768b82836c363256b4b453d10e84c65c0ea6",
-            "bytes": 27195597
+            "name": "26a751c0a3b69b1f425675883b9cbf599da4fc2cb7b320042dbaa611b03ca3ec-0002.part",
+            "sha256": "5c95ab1b7e7a10abecdc93a022747a7abb9672dd17d10179f52382f7321b8fdb",
+            "bytes": 27214746
         }
     ]
 }
