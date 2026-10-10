@@ -5,29 +5,29 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "4c568429a960337bf0013538d0e94603bcb1cc7e972676da04d8f54c265c1f7a",
-        "revision": 639272523218715326,
+        "version": "285d857f1912b95a644d909545f384dcb977353bee3b8ec83c289f319ca8a2f1",
+        "revision": 639272571916761338,
         "bootstrap": 1
     },
-    "sha256": "7e1e34c31fc438773e097336266e6b4f22bf8714c68fe55bed839bd01a321bc0",
-    "bytes": 94725626,
-    "unpackedBytes": 192821449,
+    "sha256": "ec97c0962896d0b4b7e1a53a6576f818e35ca64695f22272ef3ea5748c95bcea",
+    "bytes": 94800128,
+    "unpackedBytes": 192999205,
     "files": 229,
     "parts": [
         {
-            "name": "7e1e34c31fc438773e097336266e6b4f22bf8714c68fe55bed839bd01a321bc0-0000.part",
-            "sha256": "2e55a898aa8c564e296a906f61540dd37889b103519a6aa45ad7d01208c80032",
+            "name": "ec97c0962896d0b4b7e1a53a6576f818e35ca64695f22272ef3ea5748c95bcea-0000.part",
+            "sha256": "149d8fe7f09901790dd0b97f826d4aa1fd8756c949b6a7598db207fdd633007c",
             "bytes": 33554432
         },
         {
-            "name": "7e1e34c31fc438773e097336266e6b4f22bf8714c68fe55bed839bd01a321bc0-0001.part",
-            "sha256": "f787726ff7918cb738036922fa60c6dee84d896537acbbba668aad54993aa0b5",
+            "name": "ec97c0962896d0b4b7e1a53a6576f818e35ca64695f22272ef3ea5748c95bcea-0001.part",
+            "sha256": "d781961b77f2aee25515e6b70de8169cb4a0f5f8dc9246572cd9f8b58a8e5d8b",
             "bytes": 33554432
         },
         {
-            "name": "7e1e34c31fc438773e097336266e6b4f22bf8714c68fe55bed839bd01a321bc0-0002.part",
-            "sha256": "e6da68a81a2475735af7c8af6ff545409706beea2c0c6fd8f52b184840f32ba1",
-            "bytes": 27616762
+            "name": "ec97c0962896d0b4b7e1a53a6576f818e35ca64695f22272ef3ea5748c95bcea-0002.part",
+            "sha256": "f76a1a1381c04608975c4e525eb305c9cdde8c96c69ca220231909881d653c52",
+            "bytes": 27691264
         }
     ]
 }
