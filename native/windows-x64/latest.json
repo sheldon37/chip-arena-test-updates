@@ -5,29 +5,29 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "de0e9c4f1f1549e119b966d3131ab6992015af03a6d60505f2cab9953102aecd",
-        "revision": 639272021322836945,
+        "version": "1fbd800dba5676c0b0df0594eaf9b867c45833a85177a634c9f31ce0b0eb0527",
+        "revision": 639272082960794968,
         "bootstrap": 1
     },
-    "sha256": "84c351b523eacbc16af5b14a5824c1b2fd44cc4560ff06071f2495ed84a30ebe",
-    "bytes": 94356380,
-    "unpackedBytes": 192272241,
+    "sha256": "0006b3fab41a67242007198b4c17c15361c38e585d3478188a113e67ad859a53",
+    "bytes": 94379045,
+    "unpackedBytes": 192318165,
     "files": 229,
     "parts": [
         {
-            "name": "84c351b523eacbc16af5b14a5824c1b2fd44cc4560ff06071f2495ed84a30ebe-0000.part",
-            "sha256": "f20cca0af1347fae98abd66f46351f308b3a61f43e4d3438e762107b2ad8da43",
+            "name": "0006b3fab41a67242007198b4c17c15361c38e585d3478188a113e67ad859a53-0000.part",
+            "sha256": "b8ffd81b46e10de08d5f8ccd1fa00da319602dabc7aebefbd5d9a1727f425440",
             "bytes": 33554432
         },
         {
-            "name": "84c351b523eacbc16af5b14a5824c1b2fd44cc4560ff06071f2495ed84a30ebe-0001.part",
-            "sha256": "455bf318874ed184b0e24af6c65b9c69b86c39996e252e9bb5f81f90327edd24",
+            "name": "0006b3fab41a67242007198b4c17c15361c38e585d3478188a113e67ad859a53-0001.part",
+            "sha256": "0797349bd2b4081f6d869a365e51b8f6031f73b83b95ad6259f5a714f88a8878",
             "bytes": 33554432
         },
         {
-            "name": "84c351b523eacbc16af5b14a5824c1b2fd44cc4560ff06071f2495ed84a30ebe-0002.part",
-            "sha256": "c28a3412d7681231b3636c32e4fa69acc5427b894be486c98b48be5dcc8a6cc9",
-            "bytes": 27247516
+            "name": "0006b3fab41a67242007198b4c17c15361c38e585d3478188a113e67ad859a53-0002.part",
+            "sha256": "e5118d6f1f6e39fe86076c2e3d76d7c1c3c3ba098b1ca1686f63f3ded2ce0a46",
+            "bytes": 27270181
         }
     ]
 }
