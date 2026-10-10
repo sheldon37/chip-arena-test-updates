@@ -1,10 +1,10 @@
 {
-  "sourceCommit": "a6de3d515875d187e4badc014e9c25aff7d99e94",
-  "buildNumber": 11,
+  "sourceCommit": "4bdd90bd500c929310473ee435fdfa4bd5be3ce1",
+  "buildNumber": 13,
   "buildTarget": "chip-arena",
-  "version": "f436434520d50112a81c96ad251be07a69cd5d249b0f174341257228470672f8",
-  "revision": 639271791768735930,
-  "sha256": "26a751c0a3b69b1f425675883b9cbf599da4fc2cb7b320042dbaa611b03ca3ec",
+  "version": "de0e9c4f1f1549e119b966d3131ab6992015af03a6d60505f2cab9953102aecd",
+  "revision": 639272021322836945,
+  "sha256": "84c351b523eacbc16af5b14a5824c1b2fd44cc4560ff06071f2495ed84a30ebe",
   "colorSpace": "Linear",
   "unityVersion": "6000.3.24f1",
   "publicDownloadsVerified": false

@@ -5,29 +5,29 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "f436434520d50112a81c96ad251be07a69cd5d249b0f174341257228470672f8",
-        "revision": 639271791768735930,
+        "version": "de0e9c4f1f1549e119b966d3131ab6992015af03a6d60505f2cab9953102aecd",
+        "revision": 639272021322836945,
         "bootstrap": 1
     },
-    "sha256": "26a751c0a3b69b1f425675883b9cbf599da4fc2cb7b320042dbaa611b03ca3ec",
-    "bytes": 94323610,
-    "unpackedBytes": 192237779,
+    "sha256": "84c351b523eacbc16af5b14a5824c1b2fd44cc4560ff06071f2495ed84a30ebe",
+    "bytes": 94356380,
+    "unpackedBytes": 192272241,
     "files": 229,
     "parts": [
         {
-            "name": "26a751c0a3b69b1f425675883b9cbf599da4fc2cb7b320042dbaa611b03ca3ec-0000.part",
-            "sha256": "51db3775aca35edadc0fd616e973c31ddfa21fbde66256eff14bd2d44b5c0656",
+            "name": "84c351b523eacbc16af5b14a5824c1b2fd44cc4560ff06071f2495ed84a30ebe-0000.part",
+            "sha256": "f20cca0af1347fae98abd66f46351f308b3a61f43e4d3438e762107b2ad8da43",
             "bytes": 33554432
         },
         {
-            "name": "26a751c0a3b69b1f425675883b9cbf599da4fc2cb7b320042dbaa611b03ca3ec-0001.part",
-            "sha256": "6ab7151d8d6bde0506196c7063ed611992808ece5c8c0e0de5dfdf7af5207b42",
+            "name": "84c351b523eacbc16af5b14a5824c1b2fd44cc4560ff06071f2495ed84a30ebe-0001.part",
+            "sha256": "455bf318874ed184b0e24af6c65b9c69b86c39996e252e9bb5f81f90327edd24",
             "bytes": 33554432
         },
         {
-            "name": "26a751c0a3b69b1f425675883b9cbf599da4fc2cb7b320042dbaa611b03ca3ec-0002.part",
-            "sha256": "5c95ab1b7e7a10abecdc93a022747a7abb9672dd17d10179f52382f7321b8fdb",
-            "bytes": 27214746
+            "name": "84c351b523eacbc16af5b14a5824c1b2fd44cc4560ff06071f2495ed84a30ebe-0002.part",
+            "sha256": "c28a3412d7681231b3636c32e4fa69acc5427b894be486c98b48be5dcc8a6cc9",
+            "bytes": 27247516
         }
     ]
 }
