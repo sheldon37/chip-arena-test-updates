@@ -5,29 +5,29 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "2bb0cca3d50cf6805ef0fd23430d1e30b738a77ba2684e2c53a8f9e617d3a64f",
-        "revision": 639272466721623523,
+        "version": "4f7382cb02b1c6d8ead8d51cab436fff3c386f429b111bf7ea235449d34a3724",
+        "revision": 639272485243124153,
         "bootstrap": 1
     },
-    "sha256": "f40d5996d4e97f8d85cc0df33ac9bc7ad4fcbec8683b5b16796c1dbd8a1a02d4",
-    "bytes": 94420100,
-    "unpackedBytes": 192417133,
+    "sha256": "f8b78858106fca050bcaf9add10610ce942c930cb3fe375f971704562a4c5743",
+    "bytes": 94724081,
+    "unpackedBytes": 192818441,
     "files": 229,
     "parts": [
         {
-            "name": "f40d5996d4e97f8d85cc0df33ac9bc7ad4fcbec8683b5b16796c1dbd8a1a02d4-0000.part",
-            "sha256": "3593c7354e3ce8c0d2cc40ee09c9a893d6ddbe4402d49df7f25b83bc17a8ecec",
+            "name": "f8b78858106fca050bcaf9add10610ce942c930cb3fe375f971704562a4c5743-0000.part",
+            "sha256": "0c0b8274b5dd56a712d536f04dbb34d07e30e08ee912ee168e6a44600a3df217",
             "bytes": 33554432
         },
         {
-            "name": "f40d5996d4e97f8d85cc0df33ac9bc7ad4fcbec8683b5b16796c1dbd8a1a02d4-0001.part",
-            "sha256": "5d13c316cd66ed2b7f7dcc2114c27cc5f203b6217c91350c4f0f8c1ebe284f56",
+            "name": "f8b78858106fca050bcaf9add10610ce942c930cb3fe375f971704562a4c5743-0001.part",
+            "sha256": "78673e8bba07ee9e12031ee77ba542720ece9ae3b10b25a32cf9b50daea44ad5",
             "bytes": 33554432
         },
         {
-            "name": "f40d5996d4e97f8d85cc0df33ac9bc7ad4fcbec8683b5b16796c1dbd8a1a02d4-0002.part",
-            "sha256": "9f737111be86fa855959878ed336fac51dfa180d9ccdb71d5d751a886eac008e",
-            "bytes": 27311236
+            "name": "f8b78858106fca050bcaf9add10610ce942c930cb3fe375f971704562a4c5743-0002.part",
+            "sha256": "4f09a1f088debefe2a6c6db30e96519d359bdabff54e276b6dd83d790e82a4ac",
+            "bytes": 27615217
         }
     ]
 }
