@@ -5,29 +5,29 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "4f7382cb02b1c6d8ead8d51cab436fff3c386f429b111bf7ea235449d34a3724",
-        "revision": 639272485243124153,
+        "version": "4c568429a960337bf0013538d0e94603bcb1cc7e972676da04d8f54c265c1f7a",
+        "revision": 639272523218715326,
         "bootstrap": 1
     },
-    "sha256": "f8b78858106fca050bcaf9add10610ce942c930cb3fe375f971704562a4c5743",
-    "bytes": 94724081,
-    "unpackedBytes": 192818441,
+    "sha256": "7e1e34c31fc438773e097336266e6b4f22bf8714c68fe55bed839bd01a321bc0",
+    "bytes": 94725626,
+    "unpackedBytes": 192821449,
     "files": 229,
     "parts": [
         {
-            "name": "f8b78858106fca050bcaf9add10610ce942c930cb3fe375f971704562a4c5743-0000.part",
-            "sha256": "0c0b8274b5dd56a712d536f04dbb34d07e30e08ee912ee168e6a44600a3df217",
+            "name": "7e1e34c31fc438773e097336266e6b4f22bf8714c68fe55bed839bd01a321bc0-0000.part",
+            "sha256": "2e55a898aa8c564e296a906f61540dd37889b103519a6aa45ad7d01208c80032",
             "bytes": 33554432
         },
         {
-            "name": "f8b78858106fca050bcaf9add10610ce942c930cb3fe375f971704562a4c5743-0001.part",
-            "sha256": "78673e8bba07ee9e12031ee77ba542720ece9ae3b10b25a32cf9b50daea44ad5",
+            "name": "7e1e34c31fc438773e097336266e6b4f22bf8714c68fe55bed839bd01a321bc0-0001.part",
+            "sha256": "f787726ff7918cb738036922fa60c6dee84d896537acbbba668aad54993aa0b5",
             "bytes": 33554432
         },
         {
-            "name": "f8b78858106fca050bcaf9add10610ce942c930cb3fe375f971704562a4c5743-0002.part",
-            "sha256": "4f09a1f088debefe2a6c6db30e96519d359bdabff54e276b6dd83d790e82a4ac",
-            "bytes": 27615217
+            "name": "7e1e34c31fc438773e097336266e6b4f22bf8714c68fe55bed839bd01a321bc0-0002.part",
+            "sha256": "e6da68a81a2475735af7c8af6ff545409706beea2c0c6fd8f52b184840f32ba1",
+            "bytes": 27616762
         }
     ]
 }
