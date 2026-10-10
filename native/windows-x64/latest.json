@@ -5,29 +5,29 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "3fb42fb64ab841318e190d3076ecb8785fd344b5bdf20a82a2a7211506d20fa2",
-        "revision": 639272371860729995,
+        "version": "497431c8f33bfbad9f0548ef79ee296791ed38338b4444fb0c6d5e401e251af2",
+        "revision": 639272443091373382,
         "bootstrap": 1
     },
-    "sha256": "55f48204c1f04e8254b1315d7603ecda05f752e4be63c62d0714a8f5f24cd839",
-    "bytes": 94380724,
-    "unpackedBytes": 192321865,
+    "sha256": "7ee14c7897d931912be66650a6d4907be0094b2670f2fdd0f879e8170a95f169",
+    "bytes": 94420086,
+    "unpackedBytes": 192417133,
     "files": 229,
     "parts": [
         {
-            "name": "55f48204c1f04e8254b1315d7603ecda05f752e4be63c62d0714a8f5f24cd839-0000.part",
-            "sha256": "5704dbbe72efb48dbb413b1a48a6d219615ada24db8ad5e763a4dad2fdc0fdc8",
+            "name": "7ee14c7897d931912be66650a6d4907be0094b2670f2fdd0f879e8170a95f169-0000.part",
+            "sha256": "90ccfef8172c973d79c465a642d69c407e882c961810dba26dff5cb3c7048128",
             "bytes": 33554432
         },
         {
-            "name": "55f48204c1f04e8254b1315d7603ecda05f752e4be63c62d0714a8f5f24cd839-0001.part",
-            "sha256": "23bb909b8cc1dc020281233c06b2b1f48928ee2fa57f6c1ddb1f7522582c6441",
+            "name": "7ee14c7897d931912be66650a6d4907be0094b2670f2fdd0f879e8170a95f169-0001.part",
+            "sha256": "34698456d594d50b374f832e63a6ed709cf96d384e1df93c3afe31e7d41a0ae7",
             "bytes": 33554432
         },
         {
-            "name": "55f48204c1f04e8254b1315d7603ecda05f752e4be63c62d0714a8f5f24cd839-0002.part",
-            "sha256": "adfd9d096fd6eb97f9e69f470f7055d992df5654ca161d0a2e061e508826a1b4",
-            "bytes": 27271860
+            "name": "7ee14c7897d931912be66650a6d4907be0094b2670f2fdd0f879e8170a95f169-0002.part",
+            "sha256": "56088196c431ee7bd8b04b671717e27c9d863e2dea6e7a467ee2be4abe74df6d",
+            "bytes": 27311222
         }
     ]
 }
