@@ -5,29 +5,29 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "75f8d9617f5ed3038dfd37614c5e21e0bfe6b29e6de2d9576409ebf825e1ffd1",
-        "revision": 639272880304790828,
+        "version": "94469f03347c59a6a4e419d3a4eda5ae4eeceebd3e3805379adc284c7e1eaa25",
+        "revision": 639273316560457915,
         "bootstrap": 1
     },
-    "sha256": "c72413e70b5d0ee8c44a5abe9057bb7aa9f981140230b1d3313a0bb093e877c5",
-    "bytes": 96028872,
-    "unpackedBytes": 194870545,
-    "files": 229,
+    "sha256": "9108b2d02d815e075b4986628eca5a31bb9c354c2133f4266a0b47d10ecd2ad4",
+    "bytes": 96384453,
+    "unpackedBytes": 195771963,
+    "files": 228,
     "parts": [
         {
-            "name": "c72413e70b5d0ee8c44a5abe9057bb7aa9f981140230b1d3313a0bb093e877c5-0000.part",
-            "sha256": "32fa2303d42112b538b1851bee24b84756bc442360b9c1954fb88fd8988efe40",
+            "name": "9108b2d02d815e075b4986628eca5a31bb9c354c2133f4266a0b47d10ecd2ad4-0000.part",
+            "sha256": "d1e051494e5da9ffc2c9bf11a49a3084758af490416ff1493b2225e094812493",
             "bytes": 33554432
         },
         {
-            "name": "c72413e70b5d0ee8c44a5abe9057bb7aa9f981140230b1d3313a0bb093e877c5-0001.part",
-            "sha256": "73c717302629c0c07830eab6328825abd678760a00bfc34186d364cc5eea46f6",
+            "name": "9108b2d02d815e075b4986628eca5a31bb9c354c2133f4266a0b47d10ecd2ad4-0001.part",
+            "sha256": "030eb51ba241366b0150d38bcfd86b127188a20f874981a591052aaea71c6828",
             "bytes": 33554432
         },
         {
-            "name": "c72413e70b5d0ee8c44a5abe9057bb7aa9f981140230b1d3313a0bb093e877c5-0002.part",
-            "sha256": "4bc6d2d167dc850efc1c5a0d22aee759a602a1143c7a1daa9dabe1a60e1bd55d",
-            "bytes": 28920008
+            "name": "9108b2d02d815e075b4986628eca5a31bb9c354c2133f4266a0b47d10ecd2ad4-0002.part",
+            "sha256": "4bb2a5ed49606ab298d9db2980affc4033678e13259c495954ff9d7cc26aa5c6",
+            "bytes": 29275589
         }
     ]
 }
