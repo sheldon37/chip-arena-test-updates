@@ -5,29 +5,29 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "63f796e17dd229c4cc40f1099d85ea5c9698ac262b5e233b5141c685071faed2",
-        "revision": 639273445297813828,
+        "version": "c2118fba8878422eef88d78cc6fcb0ac2cfd9e53978dabdb5330be6bf57db799",
+        "revision": 639273504784136628,
         "bootstrap": 1
     },
-    "sha256": "3340b1ed763fa7acd1458c77c8e0a671f05a172aaa72b100b8629e1edd13bca5",
-    "bytes": 96480692,
-    "unpackedBytes": 196516467,
+    "sha256": "1b150ba9988d5b92078777f19097058cb5457b2471fde6a2bf805c7d64b7ab31",
+    "bytes": 96537632,
+    "unpackedBytes": 196652378,
     "files": 228,
     "parts": [
         {
-            "name": "3340b1ed763fa7acd1458c77c8e0a671f05a172aaa72b100b8629e1edd13bca5-0000.part",
-            "sha256": "c31e281fe4744ceb447ea369514883266cfdf4cab3a287a9574e0153a31afc62",
+            "name": "1b150ba9988d5b92078777f19097058cb5457b2471fde6a2bf805c7d64b7ab31-0000.part",
+            "sha256": "7edbb1880c8549ab882316eef9e0fb9fe9330178174db452ac416fd69cd4bb88",
             "bytes": 33554432
         },
         {
-            "name": "3340b1ed763fa7acd1458c77c8e0a671f05a172aaa72b100b8629e1edd13bca5-0001.part",
-            "sha256": "019e1fd0c57f71748a9f5d11e743fe9045d2b70eb0bb21b122a7cfeff88c5775",
+            "name": "1b150ba9988d5b92078777f19097058cb5457b2471fde6a2bf805c7d64b7ab31-0001.part",
+            "sha256": "de55874f243e845816c0a3336eb8b79de278bdfb2990bfb75b3f0b3698518c7a",
             "bytes": 33554432
         },
         {
-            "name": "3340b1ed763fa7acd1458c77c8e0a671f05a172aaa72b100b8629e1edd13bca5-0002.part",
-            "sha256": "230d29bd15f7c8a4567dac9a099244d316d0c231a69d98f0e79d8ed344fbf2cb",
-            "bytes": 29371828
+            "name": "1b150ba9988d5b92078777f19097058cb5457b2471fde6a2bf805c7d64b7ab31-0002.part",
+            "sha256": "bcfcbf22a25464d94f199fa7292f1b8b4627a60394597ed2bc7591088572f835",
+            "bytes": 29428768
         }
     ]
 }
