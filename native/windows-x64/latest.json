@@ -5,29 +5,34 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "c2118fba8878422eef88d78cc6fcb0ac2cfd9e53978dabdb5330be6bf57db799",
-        "revision": 639273504784136628,
+        "version": "712033fb794f92da41d18297d97f55320a3b3b9caa5857c754e455c95e465dd4",
+        "revision": 639273524505828221,
         "bootstrap": 1
     },
-    "sha256": "1b150ba9988d5b92078777f19097058cb5457b2471fde6a2bf805c7d64b7ab31",
-    "bytes": 96537632,
-    "unpackedBytes": 196652378,
-    "files": 228,
+    "sha256": "a5c232032befcfb63c601b7288f3d13b33bf4e01312b4deb0a43f80a0c5317ca",
+    "bytes": 115118228,
+    "unpackedBytes": 252158576,
+    "files": 230,
     "parts": [
         {
-            "name": "1b150ba9988d5b92078777f19097058cb5457b2471fde6a2bf805c7d64b7ab31-0000.part",
-            "sha256": "7edbb1880c8549ab882316eef9e0fb9fe9330178174db452ac416fd69cd4bb88",
+            "name": "a5c232032befcfb63c601b7288f3d13b33bf4e01312b4deb0a43f80a0c5317ca-0000.part",
+            "sha256": "4ab0edfbdbe316c5852b7a20f8b051c1a04bee5d939665bb026b652c1c23fd2a",
             "bytes": 33554432
         },
         {
-            "name": "1b150ba9988d5b92078777f19097058cb5457b2471fde6a2bf805c7d64b7ab31-0001.part",
-            "sha256": "de55874f243e845816c0a3336eb8b79de278bdfb2990bfb75b3f0b3698518c7a",
+            "name": "a5c232032befcfb63c601b7288f3d13b33bf4e01312b4deb0a43f80a0c5317ca-0001.part",
+            "sha256": "b35f3571f9deb342664aafd47cd7f7b92ef4f34b279c4f9a45eeb2e88957bce1",
             "bytes": 33554432
         },
         {
-            "name": "1b150ba9988d5b92078777f19097058cb5457b2471fde6a2bf805c7d64b7ab31-0002.part",
-            "sha256": "bcfcbf22a25464d94f199fa7292f1b8b4627a60394597ed2bc7591088572f835",
-            "bytes": 29428768
+            "name": "a5c232032befcfb63c601b7288f3d13b33bf4e01312b4deb0a43f80a0c5317ca-0002.part",
+            "sha256": "c8ede087ef34cd1aacca2b89b65e5962adb933da74bda190d9d3ef611992976e",
+            "bytes": 33554432
+        },
+        {
+            "name": "a5c232032befcfb63c601b7288f3d13b33bf4e01312b4deb0a43f80a0c5317ca-0003.part",
+            "sha256": "4ed2697c0b536239223a100d049269495b9e87a0e768b0a6cd70a0a8f9986960",
+            "bytes": 14454932
         }
     ]
 }
