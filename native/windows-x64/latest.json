@@ -5,29 +5,29 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "94469f03347c59a6a4e419d3a4eda5ae4eeceebd3e3805379adc284c7e1eaa25",
-        "revision": 639273316560457915,
+        "version": "d244e48895016b3af1a9610e4a756328d3770977e2acc3aeb7e98640e540454c",
+        "revision": 639273378638772675,
         "bootstrap": 1
     },
-    "sha256": "9108b2d02d815e075b4986628eca5a31bb9c354c2133f4266a0b47d10ecd2ad4",
-    "bytes": 96384453,
-    "unpackedBytes": 195771963,
+    "sha256": "ee237f9ebd8c7674b22e92052f1f7f3d37f2fe0b14d1672f969c506f37c5c6f8",
+    "bytes": 96477149,
+    "unpackedBytes": 196509722,
     "files": 228,
     "parts": [
         {
-            "name": "9108b2d02d815e075b4986628eca5a31bb9c354c2133f4266a0b47d10ecd2ad4-0000.part",
-            "sha256": "d1e051494e5da9ffc2c9bf11a49a3084758af490416ff1493b2225e094812493",
+            "name": "ee237f9ebd8c7674b22e92052f1f7f3d37f2fe0b14d1672f969c506f37c5c6f8-0000.part",
+            "sha256": "ddd39afd862e0a5f34b33b87b9ad54935e4eb494effc33990299177ec577e02b",
             "bytes": 33554432
         },
         {
-            "name": "9108b2d02d815e075b4986628eca5a31bb9c354c2133f4266a0b47d10ecd2ad4-0001.part",
-            "sha256": "030eb51ba241366b0150d38bcfd86b127188a20f874981a591052aaea71c6828",
+            "name": "ee237f9ebd8c7674b22e92052f1f7f3d37f2fe0b14d1672f969c506f37c5c6f8-0001.part",
+            "sha256": "7c298285e001b165b0149fe3c721a263512f7a3010fbc8652a276007080587b6",
             "bytes": 33554432
         },
         {
-            "name": "9108b2d02d815e075b4986628eca5a31bb9c354c2133f4266a0b47d10ecd2ad4-0002.part",
-            "sha256": "4bb2a5ed49606ab298d9db2980affc4033678e13259c495954ff9d7cc26aa5c6",
-            "bytes": 29275589
+            "name": "ee237f9ebd8c7674b22e92052f1f7f3d37f2fe0b14d1672f969c506f37c5c6f8-0002.part",
+            "sha256": "2f6447c15e1e12bd26190dc3bb7399ea18bb7a3000f55d41ef7b1dbec7fc51c8",
+            "bytes": 29368285
         }
     ]
 }
