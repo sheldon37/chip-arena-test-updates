@@ -5,29 +5,29 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "285d857f1912b95a644d909545f384dcb977353bee3b8ec83c289f319ca8a2f1",
-        "revision": 639272571916761338,
+        "version": "a4652df99354262f855edc28416d655f50c5f102446e82e779041d460690bfec",
+        "revision": 639272766550601355,
         "bootstrap": 1
     },
-    "sha256": "ec97c0962896d0b4b7e1a53a6576f818e35ca64695f22272ef3ea5748c95bcea",
-    "bytes": 94800128,
-    "unpackedBytes": 192999205,
+    "sha256": "f653703285e3077c1d5d427637b4f97abbf9ac684400d1e0f5c51c6b38944801",
+    "bytes": 96045271,
+    "unpackedBytes": 194877549,
     "files": 229,
     "parts": [
         {
-            "name": "ec97c0962896d0b4b7e1a53a6576f818e35ca64695f22272ef3ea5748c95bcea-0000.part",
-            "sha256": "149d8fe7f09901790dd0b97f826d4aa1fd8756c949b6a7598db207fdd633007c",
+            "name": "f653703285e3077c1d5d427637b4f97abbf9ac684400d1e0f5c51c6b38944801-0000.part",
+            "sha256": "a779fe355cf1dd281225a426542b835507d27e26f1bb66ff203e4c8aff6113bc",
             "bytes": 33554432
         },
         {
-            "name": "ec97c0962896d0b4b7e1a53a6576f818e35ca64695f22272ef3ea5748c95bcea-0001.part",
-            "sha256": "d781961b77f2aee25515e6b70de8169cb4a0f5f8dc9246572cd9f8b58a8e5d8b",
+            "name": "f653703285e3077c1d5d427637b4f97abbf9ac684400d1e0f5c51c6b38944801-0001.part",
+            "sha256": "e53aed8450fd51b049e3c94d558bc36448f96fd7bd64594de2a4c87fb21d5324",
             "bytes": 33554432
         },
         {
-            "name": "ec97c0962896d0b4b7e1a53a6576f818e35ca64695f22272ef3ea5748c95bcea-0002.part",
-            "sha256": "f76a1a1381c04608975c4e525eb305c9cdde8c96c69ca220231909881d653c52",
-            "bytes": 27691264
+            "name": "f653703285e3077c1d5d427637b4f97abbf9ac684400d1e0f5c51c6b38944801-0002.part",
+            "sha256": "6ebcf9a5969d496b028801a0f802158261255196aa8025dacf872df54cf5718f",
+            "bytes": 28936407
         }
     ]
 }
