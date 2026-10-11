@@ -5,29 +5,29 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "d244e48895016b3af1a9610e4a756328d3770977e2acc3aeb7e98640e540454c",
-        "revision": 639273378638772675,
+        "version": "63f796e17dd229c4cc40f1099d85ea5c9698ac262b5e233b5141c685071faed2",
+        "revision": 639273445297813828,
         "bootstrap": 1
     },
-    "sha256": "ee237f9ebd8c7674b22e92052f1f7f3d37f2fe0b14d1672f969c506f37c5c6f8",
-    "bytes": 96477149,
-    "unpackedBytes": 196509722,
+    "sha256": "3340b1ed763fa7acd1458c77c8e0a671f05a172aaa72b100b8629e1edd13bca5",
+    "bytes": 96480692,
+    "unpackedBytes": 196516467,
     "files": 228,
     "parts": [
         {
-            "name": "ee237f9ebd8c7674b22e92052f1f7f3d37f2fe0b14d1672f969c506f37c5c6f8-0000.part",
-            "sha256": "ddd39afd862e0a5f34b33b87b9ad54935e4eb494effc33990299177ec577e02b",
+            "name": "3340b1ed763fa7acd1458c77c8e0a671f05a172aaa72b100b8629e1edd13bca5-0000.part",
+            "sha256": "c31e281fe4744ceb447ea369514883266cfdf4cab3a287a9574e0153a31afc62",
             "bytes": 33554432
         },
         {
-            "name": "ee237f9ebd8c7674b22e92052f1f7f3d37f2fe0b14d1672f969c506f37c5c6f8-0001.part",
-            "sha256": "7c298285e001b165b0149fe3c721a263512f7a3010fbc8652a276007080587b6",
+            "name": "3340b1ed763fa7acd1458c77c8e0a671f05a172aaa72b100b8629e1edd13bca5-0001.part",
+            "sha256": "019e1fd0c57f71748a9f5d11e743fe9045d2b70eb0bb21b122a7cfeff88c5775",
             "bytes": 33554432
         },
         {
-            "name": "ee237f9ebd8c7674b22e92052f1f7f3d37f2fe0b14d1672f969c506f37c5c6f8-0002.part",
-            "sha256": "2f6447c15e1e12bd26190dc3bb7399ea18bb7a3000f55d41ef7b1dbec7fc51c8",
-            "bytes": 29368285
+            "name": "3340b1ed763fa7acd1458c77c8e0a671f05a172aaa72b100b8629e1edd13bca5-0002.part",
+            "sha256": "230d29bd15f7c8a4567dac9a099244d316d0c231a69d98f0e79d8ed344fbf2cb",
+            "bytes": 29371828
         }
     ]
 }
