@@ -5,29 +5,29 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "a4652df99354262f855edc28416d655f50c5f102446e82e779041d460690bfec",
-        "revision": 639272766550601355,
+        "version": "75f8d9617f5ed3038dfd37614c5e21e0bfe6b29e6de2d9576409ebf825e1ffd1",
+        "revision": 639272880304790828,
         "bootstrap": 1
     },
-    "sha256": "f653703285e3077c1d5d427637b4f97abbf9ac684400d1e0f5c51c6b38944801",
-    "bytes": 96045271,
-    "unpackedBytes": 194877549,
+    "sha256": "c72413e70b5d0ee8c44a5abe9057bb7aa9f981140230b1d3313a0bb093e877c5",
+    "bytes": 96028872,
+    "unpackedBytes": 194870545,
     "files": 229,
     "parts": [
         {
-            "name": "f653703285e3077c1d5d427637b4f97abbf9ac684400d1e0f5c51c6b38944801-0000.part",
-            "sha256": "a779fe355cf1dd281225a426542b835507d27e26f1bb66ff203e4c8aff6113bc",
+            "name": "c72413e70b5d0ee8c44a5abe9057bb7aa9f981140230b1d3313a0bb093e877c5-0000.part",
+            "sha256": "32fa2303d42112b538b1851bee24b84756bc442360b9c1954fb88fd8988efe40",
             "bytes": 33554432
         },
         {
-            "name": "f653703285e3077c1d5d427637b4f97abbf9ac684400d1e0f5c51c6b38944801-0001.part",
-            "sha256": "e53aed8450fd51b049e3c94d558bc36448f96fd7bd64594de2a4c87fb21d5324",
+            "name": "c72413e70b5d0ee8c44a5abe9057bb7aa9f981140230b1d3313a0bb093e877c5-0001.part",
+            "sha256": "73c717302629c0c07830eab6328825abd678760a00bfc34186d364cc5eea46f6",
             "bytes": 33554432
         },
         {
-            "name": "f653703285e3077c1d5d427637b4f97abbf9ac684400d1e0f5c51c6b38944801-0002.part",
-            "sha256": "6ebcf9a5969d496b028801a0f802158261255196aa8025dacf872df54cf5718f",
-            "bytes": 28936407
+            "name": "c72413e70b5d0ee8c44a5abe9057bb7aa9f981140230b1d3313a0bb093e877c5-0002.part",
+            "sha256": "4bc6d2d167dc850efc1c5a0d22aee759a602a1143c7a1daa9dabe1a60e1bd55d",
+            "bytes": 28920008
         }
     ]
 }
