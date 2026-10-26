@@ -5,39 +5,39 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "79bbab1551c39bf255ad26a19fab8fd5baf705ce955ce5b55285460bd45f3fdd",
-        "revision": 639285699450340709,
+        "version": "b08a005b47808b3dad71186f851c3cdb3700ba892a55fb59e754ae1759f28daa",
+        "revision": 639285806627751203,
         "bootstrap": 2
     },
-    "sha256": "9fa650eae720e254462680f7852b831a7bab8cd0eb4e97426fd472d0498443e2",
-    "bytes": 166237853,
-    "unpackedBytes": 403429953,
+    "sha256": "cfd4e0fac504d005e7d98b0ee40b21b61ce205b2c05627537dc71a33bcbab22f",
+    "bytes": 166238644,
+    "unpackedBytes": 403431701,
     "files": 231,
     "parts": [
         {
-            "name": "9fa650eae720e254462680f7852b831a7bab8cd0eb4e97426fd472d0498443e2-0000.part",
-            "sha256": "7d67f47d3daf6b40e80e9253a2f4eea34d8dd608339b200a6a3664fd163bbd78",
+            "name": "cfd4e0fac504d005e7d98b0ee40b21b61ce205b2c05627537dc71a33bcbab22f-0000.part",
+            "sha256": "83f6b8e8a3e7924ddcd8da592f3ee854b638bc45a96085603e1f9efda110175a",
             "bytes": 33554432
         },
         {
-            "name": "9fa650eae720e254462680f7852b831a7bab8cd0eb4e97426fd472d0498443e2-0001.part",
-            "sha256": "a75e1950dda738a8130ea891a553c7e8028cdb5392e70d141edf9f9ade46e3c7",
+            "name": "cfd4e0fac504d005e7d98b0ee40b21b61ce205b2c05627537dc71a33bcbab22f-0001.part",
+            "sha256": "2c8905e44e3611b2d3063f0a5ef18d166a6174cd902042a8a1a55332838cc102",
             "bytes": 33554432
         },
         {
-            "name": "9fa650eae720e254462680f7852b831a7bab8cd0eb4e97426fd472d0498443e2-0002.part",
-            "sha256": "08b39ab2b520389b8d083016b79533835180afd43ff9043687b2b05eba0e9bc5",
+            "name": "cfd4e0fac504d005e7d98b0ee40b21b61ce205b2c05627537dc71a33bcbab22f-0002.part",
+            "sha256": "4f095db5cd4a1dbbbcb8c6e3ac3d685202439ad14af39e71cc51910d90ac30b5",
             "bytes": 33554432
         },
         {
-            "name": "9fa650eae720e254462680f7852b831a7bab8cd0eb4e97426fd472d0498443e2-0003.part",
-            "sha256": "9e19a4ca10842483713fc066bf061ca0ab292a68739e68b17bbb545f3af25157",
+            "name": "cfd4e0fac504d005e7d98b0ee40b21b61ce205b2c05627537dc71a33bcbab22f-0003.part",
+            "sha256": "471f3db9711668d76fb705880bda6b9fa9665299b38b840c3260b741e487ffa0",
             "bytes": 33554432
         },
         {
-            "name": "9fa650eae720e254462680f7852b831a7bab8cd0eb4e97426fd472d0498443e2-0004.part",
-            "sha256": "1281d524f8f5e4ce020092fb24c764cf11c641b07e7cdeb6fb8381c06371652d",
-            "bytes": 32020125
+            "name": "cfd4e0fac504d005e7d98b0ee40b21b61ce205b2c05627537dc71a33bcbab22f-0004.part",
+            "sha256": "59adee90690f733e776152148fbb3a7cd57db8796c6afd84a87125bbe192eb85",
+            "bytes": 32020916
         }
     ]
 }
