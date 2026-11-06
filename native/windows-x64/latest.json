@@ -5,54 +5,54 @@
         "product": "chip-arena-unity",
         "channel": "native-test",
         "platform": "windows-x64",
-        "version": "be543b58b0e8e45834742f128d6454ccdaf187e9f02bd49c45b03bf25edace07",
-        "revision": 639294958948860095,
+        "version": "7ddfded7c98497cedd1ee2b508c9fbac3a13bbb5c6a35156cf81bc88128bb2df",
+        "revision": 639295285452491846,
         "bootstrap": 2
     },
-    "sha256": "b0a4def5f45f608402d7ff0984068cd903962b5ca66c9fcbc9136cac35bfc933",
-    "bytes": 248965017,
-    "unpackedBytes": 857504160,
+    "sha256": "18595cc21828e12e8377b80234bca82f5cf7021e4ae03c6a5a94b3f2c1632359",
+    "bytes": 250133667,
+    "unpackedBytes": 858735764,
     "files": 249,
     "parts": [
         {
-            "name": "b0a4def5f45f608402d7ff0984068cd903962b5ca66c9fcbc9136cac35bfc933-0000.part",
-            "sha256": "c09e732465f4610fb15be3b742856730a6c57098c2a05ecc3b8cf4a63814b749",
+            "name": "18595cc21828e12e8377b80234bca82f5cf7021e4ae03c6a5a94b3f2c1632359-0000.part",
+            "sha256": "6aa76c4cf208c7373aa4bd60475a6d936ad430ad76f4a8bbb4a134de72dad11e",
             "bytes": 33554432
         },
         {
-            "name": "b0a4def5f45f608402d7ff0984068cd903962b5ca66c9fcbc9136cac35bfc933-0001.part",
-            "sha256": "96547512b8f872c89c4a3248d1349a441a56c60feb73fa30520a82cde4fe7209",
+            "name": "18595cc21828e12e8377b80234bca82f5cf7021e4ae03c6a5a94b3f2c1632359-0001.part",
+            "sha256": "e4746aec0aabeeab4f253e3450daf419e0effcdc825c895de5952bab14cb7691",
             "bytes": 33554432
         },
         {
-            "name": "b0a4def5f45f608402d7ff0984068cd903962b5ca66c9fcbc9136cac35bfc933-0002.part",
-            "sha256": "cfed32bff86aff2a7bb5bbe145b32d244343e82fe9cf2dc7411ab1349cd466d6",
+            "name": "18595cc21828e12e8377b80234bca82f5cf7021e4ae03c6a5a94b3f2c1632359-0002.part",
+            "sha256": "d3e5a4a2545cf28e379a3b6a8f60a89c4682fb4d532f7ab6631485fed31a233f",
             "bytes": 33554432
         },
         {
-            "name": "b0a4def5f45f608402d7ff0984068cd903962b5ca66c9fcbc9136cac35bfc933-0003.part",
-            "sha256": "fb0af862b678d8384bb5317d69e0af9a6792e11745095e3bb05f7b2751ef8980",
+            "name": "18595cc21828e12e8377b80234bca82f5cf7021e4ae03c6a5a94b3f2c1632359-0003.part",
+            "sha256": "ba66f5021478414b60726a1363b3c28f4655af57152152b4544967fed2f0765a",
             "bytes": 33554432
         },
         {
-            "name": "b0a4def5f45f608402d7ff0984068cd903962b5ca66c9fcbc9136cac35bfc933-0004.part",
-            "sha256": "6c7e6cf7c3f8217feb7dffa742a0a046b6ba74037820180aeec6d97416fc1d46",
+            "name": "18595cc21828e12e8377b80234bca82f5cf7021e4ae03c6a5a94b3f2c1632359-0004.part",
+            "sha256": "ff30327aae021516f20a1ceda7eb81c52a7a8ccd3e8e53cebda9cf13d5054b52",
             "bytes": 33554432
         },
         {
-            "name": "b0a4def5f45f608402d7ff0984068cd903962b5ca66c9fcbc9136cac35bfc933-0005.part",
-            "sha256": "b5b6fa4551e2446835fb9810ae9ef65c443f7b18ea815c6301e3cd5547314aa3",
+            "name": "18595cc21828e12e8377b80234bca82f5cf7021e4ae03c6a5a94b3f2c1632359-0005.part",
+            "sha256": "258c0058836bb05f9f9da1c8536e0b00e04c6779cc4db2cbf8fa8effa3ba68c8",
             "bytes": 33554432
         },
         {
-            "name": "b0a4def5f45f608402d7ff0984068cd903962b5ca66c9fcbc9136cac35bfc933-0006.part",
-            "sha256": "e105f159ef8ec49ebb262a47f780597fe7e852fc6b793c6816c8dca9ed4275a9",
+            "name": "18595cc21828e12e8377b80234bca82f5cf7021e4ae03c6a5a94b3f2c1632359-0006.part",
+            "sha256": "cb425781a3effe2f62037c44cd20cab45724d6c1f6b67b98f82a2d869b8c90a3",
             "bytes": 33554432
         },
         {
-            "name": "b0a4def5f45f608402d7ff0984068cd903962b5ca66c9fcbc9136cac35bfc933-0007.part",
-            "sha256": "eb7343d6a775eeb83fe6035258de115d2b5c464404126aa2045fb723fd5af6f6",
-            "bytes": 14083993
+            "name": "18595cc21828e12e8377b80234bca82f5cf7021e4ae03c6a5a94b3f2c1632359-0007.part",
+            "sha256": "925d250e91f2abeffc30f7d0de05343e33e858b74c24395271e2b7c3987c657a",
+            "bytes": 15252643
         }
     ]
 }
